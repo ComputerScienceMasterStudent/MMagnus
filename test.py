@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-Artifact-2025-SAFE: Fully anonymized version for academic publication
+Fully anonymized version for academic publication
 """
 import random
 import textwrap
